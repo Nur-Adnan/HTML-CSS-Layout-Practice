@@ -1,0 +1,14 @@
+:root {
+  --body: #ffecec;
+  --brown: #c49a6c;
+  --red: #ff8c8c;
+  --card: #fff5f5;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
